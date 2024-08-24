@@ -1,0 +1,41 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis,literacy,job_status
+Russell,Jenkins,67,,Montana,Alzheimer's,not mentally capable,both physical and mental pain,6-12 months,College,Unable to work
+Aimee,Decker,52,,Kentucky,pancreatic cancer,not mentally capable,severe physical pain,1-3 months,Junior High,Unable to work
+Robert,Black,71,,Ohio,heart failure,not mentally capable,severe mental pain,6-12 months,Junior High,Able to work
+Justin,Huber,57,,Wisconsin,end-stage renal disease,mentally capable,severe mental pain,2-5 years,College,Able to work
+Timothy,Gonzalez,85,,Vermont,multiple sclerosis,not mentally capable,both physical and mental pain,1-3 months,College,Unable to work
+Casey,Jones,66,,Pennsylvania,multiple sclerosis,mentally capable,severe mental pain,6-12 months,Highschool,Able to work
+Kristina,Williams,65,,Kentucky,ALS,not mentally capable,severe physical pain,1-2 years,College,Able to work
+Christopher,Mitchell,49,,California,end-stage renal disease,not mentally capable,severe mental pain,6-12 months,Junior High,Able to work
+Lisa,Nelson,56,,Iowa,pancreatic cancer,not mentally capable,both physical and mental pain,1-2 years,College,Unable to work
+Kathy,Nunez,84,,Alabama,Parkinson's,not mentally capable,both physical and mental pain,1-3 months,Junior High,Able to work
+Stacy,Schmitt,70,,Colorado,lung cancer,mentally capable,severe physical pain,less than 1 month,College,Able to work
+Kaylee,Rios,61,,New Hampshire,Alzheimer's,mentally capable,severe physical pain,3-6 months,College,Unable to work
+Jamie,Hicks,71,,Kentucky,lung cancer,mentally capable,severe mental pain,3-6 months,College,Able to work
+Michael,Villarreal MD,89,,Georgia,end-stage renal disease,mentally capable,severe mental pain,2-5 years,Junior High,Unable to work
+Amy,Phillips,63,,Illinois,pancreatic cancer,mentally capable,both physical and mental pain,1-2 years,Junior High,Unable to work
+Jeremy,Brown,79,,Kansas,pancreatic cancer,not mentally capable,severe physical pain,1-3 months,Highschool,Able to work
+Reginald,Colon,64,,Florida,multiple sclerosis,mentally capable,both physical and mental pain,less than 1 month,Highschool,Unable to work
+Raven,Rios,78,,Connecticut,ALS,not mentally capable,severe physical pain,2-5 years,College,Able to work
+Frances,Bowers,62,,North Carolina,Alzheimer's,mentally capable,severe mental pain,6-12 months,Highschool,Unable to work
+Darren,Gutierrez,70,,Tennessee,brain tumor,mentally capable,both physical and mental pain,1-3 months,Junior High,Unable to work
+James,Bennett,70,,Ohio,multiple sclerosis,not mentally capable,severe mental pain,less than 1 month,College,Able to work
+Jeremy,Black,88,,Maine,heart failure,mentally capable,both physical and mental pain,3-6 months,College,Able to work
+Joseph,Cook,55,,Maryland,brain tumor,not mentally capable,both physical and mental pain,3-6 months,Junior High,Unable to work
+Jessica,Barry,54,,Wisconsin,lung cancer,not mentally capable,both physical and mental pain,6-12 months,College,Able to work
+Kayla,Mack,63,,Michigan,end-stage renal disease,not mentally capable,severe physical pain,6-12 months,Junior High,Unable to work
+Angela,Yang,63,,Missouri,depression,mentally capable,severe mental pain,N/A,Junior High,Able to work
+Kristina,Brown,79,,Nebraska,pancreatic cancer,not mentally capable,both physical and mental pain,3-6 months,College,Unable to work
+Willie,Monroe,64,,Connecticut,lung cancer,mentally capable,both physical and mental pain,6-12 months,College,Unable to work
+Cathy,Yu,53,,Idaho,lung cancer,mentally capable,both physical and mental pain,6-12 months,Junior High,Able to work
+Christine,Ingram,73,,Alabama,COPD,mentally capable,severe physical pain,1-3 months,Junior High,Able to work
+Rachel,Perez,78,,New Hampshire,ALS,not mentally capable,both physical and mental pain,3-6 months,College,Unable to work
+Casey,Patel,58,,Montana,Alzheimer's,mentally capable,both physical and mental pain,2-5 years,College,Able to work
+Hannah,Haney,90,,Iowa,COPD,not mentally capable,both physical and mental pain,1-2 years,College,Unable to work
+Eric,Harris,54,,Michigan,depression,not mentally capable,severe mental pain,N/A,Junior High,Unable to work
+Rachel,Lopez,85,,Kansas,multiple sclerosis,mentally capable,both physical and mental pain,6-12 months,College,Able to work
+Samuel,Knight,74,,North Carolina,lung cancer,mentally capable,severe mental pain,1-3 months,College,Unable to work
+Mr.,Andrew Marks,62,,Nevada,Parkinson's,mentally capable,severe physical pain,1-3 months,Highschool,Unable to work
+Wesley,Mayo,71,,Oklahoma,end-stage renal disease,not mentally capable,severe physical pain,less than 1 month,Highschool,Able to work
+Matthew,Myers,77,,Illinois,end-stage renal disease,not mentally capable,severe mental pain,1-3 months,College,Unable to work
+Theresa,Shannon,89,,Pennsylvania,multiple sclerosis,not mentally capable,severe mental pain,1-2 years,Junior High,Unable to work

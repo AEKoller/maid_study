@@ -1,0 +1,42 @@
+[
+  {
+    "id": "39160544",
+    "doi": "10.1186/s12904-024-01542-z",
+    "title": "Non-invasive technology to assess hydration status in advanced cancer to explore relationships between fluid status and symptoms: an observational study using bioelectrical impedance analysis.",
+    "abstract": "Oral fluid intake decreases in advanced cancer in the dying phase of illness. There is inadequate evidence to support the assessment, and management, of hydration in the dying. Bioelectrical impedance analysis (BIA) is a body composition assessment tool. BIA has the potential to inform clinal management in advanced cancer, by examining the relationships between hydration status and clinical variables.",
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study is considered empirical because it involves collecting and analyzing data from real-world observations, rather than relying solely on theoretical frameworks or simulations. The study aims to explore relationships between fluid status and symptoms in advanced cancer patients, which requires collecting and analyzing empirical data.",
+    "research_methods": "** Observational study using bioelectrical impedance analysis (BIA), examining the relationships between hydration status and clinical variables",
+    "research_methods_justification": "** The researchers chose an observational study design because they wanted to examine existing patterns and relationships between fluid status and symptoms in advanced cancer patients, without intervening or manipulating the data. Bioelectrical impedance analysis (BIA) was used as a non-invasive technology to assess hydration status, which allowed for easy collection of data from participants. The focus on clinical variables provides context for understanding the relevance of hydration status to patient outcomes."
+  },
+  {
+    "id": "39157533",
+    "doi": "10.3389/fpubh.2024.1399025",
+    "title": "Readiness of nurses when faced with a patient's death.",
+    "abstract": "The death of a patient negatively affects the professional dimension of nurses' functioning and also their private lives, where professional experiences and emotions are often transmitted.",
+    "study_type": "** Theoretical",
+    "study_type_justification": "** Although the title suggests an empirical study, the abstract does not provide any concrete data or results. Instead, it focuses on the impact of patient death on nurses' professional and private lives, which is a theoretical discussion.",
+    "research_methods": "** Not applicable (N/A)",
+    "research_methods_justification": "** Since this article appears to be a theoretical piece, there are no specific research methods mentioned in the abstract. The focus is on conceptualizing the effects of patient death on nurses rather than presenting original data or findings."
+  },
+  {
+    "id": "39157418",
+    "doi": "10.1177/26323524241272102",
+    "title": "'There is no such word as palliative care for us at the moment': A mixed-method study exploring the perceptions of healthcare professionals on the need for palliative care in Bhutan.",
+    "abstract": "The need for palliative care is ever-increasing globally. However, it is least developed or not available in most low-and-middle-income-countries including Bhutan.",
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study is empirical because it involves collecting and analyzing data from real-world settings, rather than relying solely on theoretical frameworks or simulations. The study aims to explore healthcare professionals' perceptions on the need for palliative care in Bhutan, which requires collecting primary data through surveys, interviews, or other methods.",
+    "research_methods": "** Mixed-methods study, including semi-structured interviews and questionnaires",
+    "research_methods_justification": "** A mixed-methods approach was used to collect both quantitative (questionnaires) and qualitative (interviews) data. This allowed the researchers to capture a broader range of perspectives and insights from healthcare professionals. By combining both approaches, the study can provide a more comprehensive understanding of the need for palliative care in Bhutan, as well as the complexities and nuances involved."
+  },
+  {
+    "id": "39152645",
+    "doi": "10.1177/02692163241269689",
+    "title": "The double awareness of the wish to hasten death and the will to live: A secondary analysis of outlier patients from a mixed-methods study.",
+    "abstract": "Patients with serious illness frequently report (temporary) wishes to hasten death. Even until the end-of-life, many patients also harbor a will to live. Although both phenomena are negatively correlated according to some studies, they can also co-exist. Knowledge about the complex relationship between the seemingly opposing wish to hasten death and will to live is limited, but crucial for delivering adequate care and understanding potential requests for assisted dying.",
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study is empirical because it involves the collection and analysis of data from real-world patients with serious illness, aiming to understand their experiences and perspectives on their wishes to hasten death and will to live. The study does not rely solely on theoretical frameworks or literature reviews.",
+    "research_methods": "** Mixed-methods study, secondary analysis, outlier patients",
+    "research_methods_justification": "** The mixed-methods approach allows the researchers to combine both qualitative (outlier patients) and quantitative data (secondary analysis of existing data). This enables a comprehensive understanding of the complex relationship between the wish to hasten death and will to live. The focus on outlier patients provides insight into the experiences of individuals who may not fit typical profiles or patterns, which is crucial for delivering adequate care and understanding potential requests for assisted dying."
+  }
+]

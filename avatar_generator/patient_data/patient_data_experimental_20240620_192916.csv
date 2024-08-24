@@ -1,0 +1,41 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis,literacy,job_status
+James,Davis,83,,Washington,multiple sclerosis,not mentally capable,severe physical pain,2-5 years,Senior in college,Unable to work
+James,Dalton,49,,New Jersey,end-stage renal disease,mentally capable,severe mental pain,6-12 months,7th grade level,Unable to work
+Andre,Hobbs,73,,Indiana,multiple sclerosis,mentally capable,severe physical pain,1-2 years,Junior in college,Able to work
+Diana,Martinez,66,,Indiana,Parkinson's,not mentally capable,severe mental pain,2-5 years,7th grade level,Able to work
+Katie,Jordan MD,82,,Texas,pancreatic cancer,mentally capable,severe mental pain,2-5 years,7th grade level,Unable to work
+Frances,Harrell,83,,New York,brain tumor,not mentally capable,severe mental pain,6-12 months,7th grade level,Unable to work
+Troy,Howard,86,,Idaho,Parkinson's,mentally capable,severe mental pain,3-6 months,Freshman in college,Able to work
+Thomas,Haas,76,,Tennessee,end-stage renal disease,mentally capable,both physical and mental pain,2-5 years,Freshman in college,Unable to work
+Daniel,Williams,58,,Nebraska,multiple sclerosis,mentally capable,severe physical pain,3-6 months,7th grade level,Able to work
+Kathleen,Park,72,,Hawaii,ALS,mentally capable,severe mental pain,1-3 months,7th grade level,Able to work
+Tyler,Stevens,83,,South Dakota,COPD,mentally capable,both physical and mental pain,2-5 years,7th grade level,Able to work
+Carrie,Davies,89,,Florida,brain tumor,not mentally capable,both physical and mental pain,1-3 months,7th grade level,Unable to work
+Neil,Sanders,73,,Wisconsin,brain tumor,mentally capable,severe mental pain,2-5 years,Senior in college,Able to work
+Travis,Avila,90,,New Jersey,multiple sclerosis,mentally capable,both physical and mental pain,less than 1 month,Sophomore in college,Able to work
+Timothy,Baldwin,60,,Arkansas,ALS,not mentally capable,severe mental pain,6-12 months,7th grade level,Unable to work
+Bailey,Steele,55,,Georgia,Parkinson's,mentally capable,both physical and mental pain,less than 1 month,Junior in college,Able to work
+Deborah,Adams DDS,64,,Rhode Island,multiple sclerosis,mentally capable,severe physical pain,3-6 months,Junior in college,Able to work
+Laurie,Nielsen,88,,Arkansas,pancreatic cancer,mentally capable,both physical and mental pain,1-3 months,Junior in college,Able to work
+Susan,Clayton,67,,Oregon,lung cancer,not mentally capable,severe physical pain,3-6 months,7th grade level,Able to work
+Mr.,David Palmer,82,,New Hampshire,end-stage renal disease,mentally capable,severe mental pain,1-2 years,7th grade level,Able to work
+Rebecca,Tapia,82,,West Virginia,Parkinson's,mentally capable,both physical and mental pain,3-6 months,7th grade level,Unable to work
+Darrell,Bass,57,,North Dakota,Parkinson's,mentally capable,severe physical pain,2-5 years,7th grade level,Able to work
+Phyllis,Wallace,59,,Georgia,Parkinson's,mentally capable,both physical and mental pain,1-3 months,7th grade level,Able to work
+Krista,Gordon,79,,Idaho,Alzheimer's,not mentally capable,both physical and mental pain,6-12 months,Junior in college,Unable to work
+Chad,Valdez,50,,Hawaii,Alzheimer's,mentally capable,severe physical pain,1-2 years,7th grade level,Unable to work
+Tonya,Estrada,62,,North Carolina,COPD,not mentally capable,severe mental pain,2-5 years,7th grade level,Unable to work
+Vanessa,Jackson,77,,Utah,end-stage renal disease,mentally capable,severe mental pain,less than 1 month,7th grade level,Unable to work
+Margaret,Osborn,74,,Kentucky,end-stage renal disease,mentally capable,severe physical pain,1-3 months,Junior in college,Unable to work
+Evan,Baldwin,72,,Minnesota,ALS,not mentally capable,severe mental pain,6-12 months,Sophomore in college,Unable to work
+Hector,Gallagher,65,,Arkansas,ALS,mentally capable,severe physical pain,3-6 months,7th grade level,Able to work
+Jessica,Wiggins,72,,Massachusetts,multiple sclerosis,mentally capable,severe physical pain,6-12 months,7th grade level,Unable to work
+Cynthia,Lawson,89,,Michigan,pancreatic cancer,mentally capable,severe mental pain,1-2 years,Sophomore in college,Unable to work
+Eric,Frazier,82,,Minnesota,ALS,not mentally capable,severe mental pain,2-5 years,Freshman in college,Unable to work
+Christopher,Rodriguez,74,,Oklahoma,multiple sclerosis,mentally capable,both physical and mental pain,6-12 months,Senior in college,Unable to work
+Mark,Castaneda,73,,Indiana,multiple sclerosis,not mentally capable,severe physical pain,3-6 months,7th grade level,Unable to work
+Jennifer,Hatfield,60,,Pennsylvania,brain tumor,not mentally capable,severe physical pain,1-2 years,Freshman in college,Unable to work
+Marcus,Stewart,85,,Connecticut,Alzheimer's,mentally capable,both physical and mental pain,1-2 years,7th grade level,Able to work
+Judy,Berry,62,,Texas,brain tumor,mentally capable,both physical and mental pain,2-5 years,7th grade level,Unable to work
+Ariel,Bolton,85,,Idaho,brain tumor,not mentally capable,severe mental pain,1-2 years,7th grade level,Unable to work
+Sandra,Howell,80,,Kansas,multiple sclerosis,not mentally capable,both physical and mental pain,less than 1 month,Sophomore in college,Unable to work

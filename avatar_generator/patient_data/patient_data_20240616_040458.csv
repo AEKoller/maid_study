@@ -1,0 +1,21 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis
+Bryan,Martin,53,,Utah,ALS,not mentally capable,severe mental pain,1-3 months
+Calvin,Case,87,,Vermont,lung cancer,mentally capable,severe physical pain,3-6 months
+Morgan,Fields,70,,Florida,pancreatic cancer,mentally capable,both physical and mental pain,1-3 months
+Jennifer,Case,90,,Missouri,lung cancer,not mentally capable,severe mental pain,1-3 months
+Jennifer,Mitchell,72,,Iowa,ALS,not mentally capable,severe mental pain,6-12 months
+Dylan,Patel,76,,Oklahoma,ALS,not mentally capable,severe physical pain,less than 1 month
+Thomas,Nash,90,,Alaska,heart failure,not mentally capable,both physical and mental pain,3-6 months
+Katrina,Mullen,85,,Idaho,pancreatic cancer,mentally capable,severe mental pain,1-2 years
+Patrick,Obrien,50,,Rhode Island,lung cancer,not mentally capable,severe mental pain,6-12 months
+Dana,Moore,77,,New Jersey,lung cancer,not mentally capable,severe mental pain,1-2 years
+Roger,Brown,66,,Rhode Island,end-stage renal disease,not mentally capable,severe mental pain,6-12 months
+Stefanie,Mann,54,,New Mexico,depression,mentally capable,both physical and mental pain,1-3 months
+Anthony,Rivera,81,,Nebraska,end-stage renal disease,not mentally capable,both physical and mental pain,2-5 years
+Bill,Edwards,82,,Kentucky,multiple sclerosis,mentally capable,both physical and mental pain,2-5 years
+Melinda,Wade,83,,Washington,multiple sclerosis,not mentally capable,severe mental pain,less than 1 month
+John,Norton,80,,Pennsylvania,multiple sclerosis,mentally capable,both physical and mental pain,1-2 years
+Alexandra,Jones,85,,Missouri,Alzheimer's,mentally capable,both physical and mental pain,2-5 years
+Michael,Lopez,52,,Alaska,heart failure,mentally capable,severe physical pain,1-3 months
+Kimberly,Davis,70,,Oregon,pancreatic cancer,not mentally capable,severe physical pain,1-3 months
+Timothy,Brooks,80,,Michigan,pancreatic cancer,mentally capable,both physical and mental pain,1-3 months

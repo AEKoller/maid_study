@@ -1,0 +1,41 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis
+Ryan,Joseph,67,,Vermont,depression,mentally capable,severe physical pain,N/A
+James,Robinson,82,,Texas,depression,not mentally capable,severe mental pain,N/A
+Alexandria,Harris,87,,Florida,Alzheimer's,mentally capable,severe mental pain,2-5 years
+Steven,Collins,81,,Oregon,depression,not mentally capable,both physical and mental pain,N/A
+Susan,Wade,63,,Oklahoma,depression,not mentally capable,both physical and mental pain,N/A
+Noah,Ortiz,88,,Missouri,Parkinson's,mentally capable,both physical and mental pain,2-5 years
+Theresa,Davis,82,,Arkansas,multiple sclerosis,mentally capable,severe physical pain,2-5 years
+Rachel,Harrington,86,,Michigan,COPD,not mentally capable,severe mental pain,less than 1 month
+Luis,Edwards,63,,Illinois,ALS,not mentally capable,both physical and mental pain,3-6 months
+Rodney,Sanders,78,,Arkansas,Parkinson's,mentally capable,both physical and mental pain,1-3 months
+Jay,Williams,66,,Alaska,end-stage renal disease,not mentally capable,severe mental pain,3-6 months
+Marie,Chang,89,,Utah,pancreatic cancer,mentally capable,both physical and mental pain,less than 1 month
+Ashley,Lyons,62,,Wyoming,depression,not mentally capable,severe mental pain,N/A
+Holly,Cook,73,,Minnesota,Parkinson's,mentally capable,severe mental pain,1-3 months
+Sean,Chan,86,,Alaska,heart failure,mentally capable,both physical and mental pain,2-5 years
+Jordan,Alexander,56,,Mississippi,COPD,not mentally capable,severe mental pain,1-3 months
+Kevin,Young,63,,Colorado,brain tumor,not mentally capable,severe physical pain,3-6 months
+Edward,Eaton,84,,California,depression,mentally capable,severe mental pain,N/A
+Jessica,Forbes,62,,Ohio,brain tumor,not mentally capable,severe physical pain,6-12 months
+Amber,Hall,68,,South Carolina,end-stage renal disease,mentally capable,severe physical pain,3-6 months
+Joseph,Robinson,83,,Missouri,Parkinson's,not mentally capable,severe mental pain,3-6 months
+Scott,Harding,86,,New York,ALS,mentally capable,both physical and mental pain,3-6 months
+Margaret,Cunningham,67,,Alaska,Parkinson's,not mentally capable,severe physical pain,2-5 years
+Tara,Blair,71,,Indiana,end-stage renal disease,not mentally capable,severe mental pain,less than 1 month
+Molly,Barry,74,,Nebraska,Parkinson's,mentally capable,both physical and mental pain,6-12 months
+Mark,Brown,61,,Illinois,pancreatic cancer,mentally capable,both physical and mental pain,3-6 months
+Lisa,Jackson,77,,Vermont,Parkinson's,mentally capable,severe physical pain,2-5 years
+Jason,Gates,73,,Idaho,brain tumor,not mentally capable,severe physical pain,6-12 months
+Amber,Jones,89,,New Mexico,heart failure,mentally capable,severe physical pain,1-3 months
+James,Nichols,69,,Wyoming,lung cancer,not mentally capable,both physical and mental pain,2-5 years
+Craig,Rodriguez,88,,Idaho,pancreatic cancer,mentally capable,severe mental pain,less than 1 month
+Brian,Schwartz,65,,Tennessee,Alzheimer's,not mentally capable,both physical and mental pain,1-3 months
+Taylor,Gilbert,58,,Tennessee,ALS,mentally capable,severe physical pain,2-5 years
+Crystal,Larson,82,,Georgia,depression,mentally capable,both physical and mental pain,N/A
+Chelsea,Long,50,,West Virginia,end-stage renal disease,mentally capable,severe physical pain,3-6 months
+Amy,Guzman,75,,New York,heart failure,not mentally capable,severe physical pain,2-5 years
+Mark,Montgomery,76,,Texas,pancreatic cancer,not mentally capable,severe physical pain,6-12 months
+Desiree,Carr,51,,Nebraska,heart failure,mentally capable,severe physical pain,1-2 years
+Sara,Anderson,72,,North Carolina,heart failure,not mentally capable,severe mental pain,1-2 years
+Chad,Ponce,58,,Nebraska,multiple sclerosis,mentally capable,both physical and mental pain,1-3 months

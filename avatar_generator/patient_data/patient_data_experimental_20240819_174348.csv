@@ -1,0 +1,11 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis,literacy,job_status
+Megan,Cline,63,,California,COPD,not mentally capable,severe physical pain,1-3 months,Sophomore in college,Able to work
+Joseph,Stewart,77,,Vermont,lung cancer,mentally capable,severe mental pain,less than 1 month,12th grade level,Able to work
+Jessica,Jones,61,,Wisconsin,Alzheimer's,mentally capable,severe mental pain,2-5 years,Sophomore in college,Unable to work
+Amy,Davis,57,,Montana,COPD,not mentally capable,severe physical pain,1-2 years,Junior in college,Able to work
+Jeremy,Ball,76,,Illinois,Parkinson's,not mentally capable,severe physical pain,1-3 months,Junior in college,Unable to work
+Jordan,Moore,55,,New York,pancreatic cancer,mentally capable,severe physical pain,3-6 months,8th grade level,Able to work
+Robert,Fischer,72,,Oregon,end-stage renal disease,not mentally capable,severe mental pain,2-5 years,Freshman in college,Able to work
+Peter,Nixon,61,,Delaware,brain tumor,not mentally capable,severe physical pain,3-6 months,11th grade level,Able to work
+Emma,Banks MD,58,,Colorado,end-stage renal disease,not mentally capable,both physical and mental pain,less than 1 month,Junior in college,Unable to work
+Victor,Roberts,81,,Hawaii,end-stage renal disease,mentally capable,severe mental pain,2-5 years,8th grade level,Unable to work

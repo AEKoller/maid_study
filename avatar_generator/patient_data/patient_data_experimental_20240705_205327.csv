@@ -1,0 +1,11 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis,literacy,job_status
+Brittany,Anderson,59,,Delaware,Alzheimer's,mentally capable,severe mental pain,6-12 months,9th grade level,Able to work
+Michael,Ruiz,87,,Ohio,end-stage renal disease,mentally capable,severe physical pain,2-5 years,11th grade level,Unable to work
+Tara,Calhoun,78,,Michigan,ALS,not mentally capable,severe physical pain,3-6 months,10th grade level,Unable to work
+James,Dixon,58,,Ohio,multiple sclerosis,mentally capable,severe mental pain,6-12 months,11th grade level,Able to work
+Sierra,Good,89,,Pennsylvania,Parkinson's,not mentally capable,both physical and mental pain,2-5 years,Senior in college,Unable to work
+Dennis,Perez,70,,Maine,multiple sclerosis,not mentally capable,both physical and mental pain,3-6 months,12th grade level,Able to work
+Sandra,Mann,78,,Maine,end-stage renal disease,mentally capable,both physical and mental pain,6-12 months,Junior in college,Able to work
+Alexander,Hines,67,,Michigan,ALS,not mentally capable,severe mental pain,1-3 months,10th grade level,Able to work
+Dawn,King,52,,Hawaii,pancreatic cancer,mentally capable,severe physical pain,3-6 months,Sophomore in college,Able to work
+Daniel,Martinez,76,,Arkansas,lung cancer,mentally capable,severe physical pain,6-12 months,Senior in college,Able to work

@@ -1,0 +1,11 @@
+first name,last name,age,gender,location,illness,mental_state,pain_type,prognosis,literacy,job_status
+Adam,Perry,69,,Massachusetts,brain tumor,not mentally capable,severe mental pain,1-2 years,7th grade level,Able to work
+Daniel,Esparza,76,,Iowa,pancreatic cancer,not mentally capable,severe mental pain,6-12 months,7th grade level,Unable to work
+Carrie,Morris,86,,Mississippi,COPD,not mentally capable,both physical and mental pain,less than 1 month,7th grade level,Unable to work
+Tony,Little,89,,Alabama,Parkinson's,not mentally capable,severe physical pain,less than 1 month,7th grade level,Able to work
+James,Collins,67,,West Virginia,lung cancer,mentally capable,severe physical pain,less than 1 month,Junior in college,Able to work
+Penny,Pope,59,,Georgia,pancreatic cancer,mentally capable,severe mental pain,1-2 years,Senior in college,Able to work
+Lisa,Nguyen,75,,Florida,end-stage renal disease,mentally capable,both physical and mental pain,3-6 months,Freshman in college,Able to work
+Michele,Alvarez,73,,South Carolina,brain tumor,mentally capable,severe physical pain,2-5 years,7th grade level,Unable to work
+Amber,Kelly,58,,South Carolina,lung cancer,not mentally capable,severe mental pain,less than 1 month,Junior in college,Unable to work
+Steven,Jacobson,49,,Kentucky,lung cancer,not mentally capable,both physical and mental pain,2-5 years,7th grade level,Unable to work

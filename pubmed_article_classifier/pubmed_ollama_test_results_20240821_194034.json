@@ -1,0 +1,32 @@
+[
+  {
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study is considered empirical because it involves collecting data through a survey and analyzing the results to draw conclusions. The study aims to investigate the impact of legalizing medical aid in dying on patient trust, which is an empirical question that can be answered through data collection and analysis.",
+    "research_methods": "** Randomized controlled survey study",
+    "research_methods_justification": "** A randomized controlled survey study involves randomly assigning participants to different groups or conditions, in this case, participants who were surveyed before the legalization of medical aid in dying (pre-intervention group) and those who were surveyed after the legalization (post-intervention group). This design allows researchers to control for potential confounding variables and isolate the effect of the intervention (legalization of medical aid in dying) on patient trust. The survey method is used to collect data from participants, which provides a standardized way to gather self-reported information."
+  },
+  {
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study aims to investigate the relationship between hydration status and symptoms in advanced cancer patients using bioelectrical impedance analysis (BIA) as a non-invasive technology. This is an empirical study, as it involves collecting data through observation or experimentation to test hypotheses.",
+    "research_methods": "** Observational study using BIA, fluid intake assessment, symptom evaluation",
+    "research_methods_justification": "** The researchers employed an observational study design to examine the relationships between hydration status and clinical variables in advanced cancer patients. They used BIA, a non-invasive technology that measures body composition, to assess hydration status. Additionally, they evaluated fluid intake and symptoms to explore their correlations with hydration status. This mixed-methods approach allowed the researchers to collect both quantitative (BIA) and qualitative data (fluid intake and symptom evaluation)."
+  },
+  {
+    "study_type": "Empirical",
+    "study_type_justification": "This study appears to be empirical in nature because it aims to investigate a real-world phenomenon (the impact of patient death on nurses) through the collection and analysis of data. The abstract suggests that the researchers will likely use quantitative or qualitative methods to gather information from nurses, which is characteristic of an empirical study.",
+    "research_methods": "Surveys, interviews, questionnaires",
+    "research_methods_justification": "Given the focus on the experiences and emotions of nurses in response to patient death, it's likely that the researchers used surveys, interviews, or questionnaires to collect data. These methods allow for in-depth exploration of participants' thoughts, feelings, and behaviors related to the research topic."
+  },
+  {
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study is empirical because it involves data collection and analysis through mixed-methods, including surveys, interviews, and observations. This approach allows researchers to gather quantitative and qualitative data to answer research questions.",
+    "research_methods": "** Mixed-method survey and interview study, including semi-structured interviews with healthcare professionals and a standardized survey administered to a sample of healthcare providers.",
+    "research_methods_justification": "** The use of mixed-methods allowed the researchers to gather both quantitative and qualitative data, providing a more comprehensive understanding of healthcare professionals' perceptions on the need for palliative care in Bhutan. The semi-structured interviews provided rich, in-depth information on participants' experiences and perspectives, while the standardized survey facilitated quantifiable results. This approach also enabled the researchers to triangulate their findings, increasing the validity and reliability of the study's conclusions."
+  },
+  {
+    "study_type": "** Empirical",
+    "study_type_justification": "** The study is empirical because it presents original data and findings based on a mixed-methods study. The abstract mentions analyzing outlier patients, which suggests that the study involved collecting and analyzing data from real-world participants.",
+    "research_methods": "** Mixed-methods study, secondary analysis of outlier patients, survey data, qualitative interviews",
+    "research_methods_justification": "** The use of a mixed-methods approach allows for both quantitative and qualitative data to be collected and analyzed. Conducting a secondary analysis of outlier patients provides insight into the experiences and perspectives of individuals who may not fit typical profiles or patterns. Survey data likely provided an overview of participants' attitudes and experiences, while qualitative interviews allowed for in-depth exploration of specific issues and themes."
+  }
+]
